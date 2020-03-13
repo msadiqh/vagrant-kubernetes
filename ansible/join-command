@@ -1,0 +1,1 @@
+kubeadm join 192.168.3.100:6443 --token gu408y.ahrp79bzoyhxe1am     --discovery-token-ca-cert-hash sha256:688c3ca4d6db093a512239b4e90fbddf93d7b9e9f802912c4f74440c2d098715 
